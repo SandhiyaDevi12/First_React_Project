@@ -1,0 +1,27 @@
+/* Functional Component Syntax : 
+ * 
+ * import React from 'react';
+ * 
+ * function Component_name(){
+ *      return(
+ *          html_content
+ *      )
+ * }
+ * 
+ * export default Component_name;
+ * 
+ */
+
+import React from 'react';
+
+function Sample_FC() {
+    return (
+        <>
+        <div>
+        <h1>Functional Component Example < /h1>
+            < /div>
+            < />
+    )
+}
+
+export default Sample_FC;
